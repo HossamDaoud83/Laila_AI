@@ -19,7 +19,7 @@ st.markdown(hide_st_style, unsafe_allow_html=True)
 
 
 # Create a button that links to an external website
-external_link = "https://poe.com/LailaGSB/"  # Replace with the actual URL
+external_link = "https://poe.com/Laila-for-students"  # Replace with the actual URL
 if st.button("Chat with Laila AI"):
     #webbrowser.open_new_tab(external_link)        
     st.markdown(f"Redirecting to [{external_link}]({external_link})")
