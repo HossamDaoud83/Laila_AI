@@ -47,3 +47,6 @@ st.video("https://youtu.be/QUByDhfAtp0")
 
 st.text("التخصصات في ماجستير إدارة الأعمال")
 st.video("https://youtu.be/8MTm74uZKxk")
+
+st.text("MBA Comprehensive Exam")
+st.video("https://youtu.be/m76vSJqAFo0?si=agdKJ8fR4vEUiQhy")
